@@ -1,0 +1,11 @@
+BLG103.1 ProgramlamayaGiris
+BLG101.1 BilgisayarMuhendisligineGiris
+BLG111.1 ElektronikDevreler
+BLG201.1 NesneTabanliProgramlama
+FZK107.1 Fizik1
+MAT107.1 Matematik1
+IST201.1 Ýstatistik 
+MIM109.1 ÝletisimTeknikleri
+MIM201.1 MimariProje1
+MIM119.1 TemelTasarim1
+MIM115.1 BinaBilgisi1
